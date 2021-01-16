@@ -14,7 +14,7 @@ Built entirely:
 ```
 
 ## ⚒ Deploy 
-👉 http://nasachallenge.surge.sh/nasaphoto
+👉 http://nasachallenge.surge.sh/
 
 ## 🙋 Code by me. 
 @valerisvso
